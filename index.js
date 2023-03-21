@@ -1,5 +1,7 @@
 "use strict";
 
-if (confirm("Перейти на Wikipedia?")) {
-  location.href = "https://www.xvideos.com/tags/xxx"; // перенаправляет браузер на другой URL
+setInterval(() => (document.body.style.background = "red"), 62.5);
+setInterval(() => (document.body.style.background = ""), 125);
+if (confirm("Начать разъеб?")) {
+  for (let i = 0; i < 10000; i++) {}
 }
